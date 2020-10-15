@@ -11,7 +11,8 @@
 *.zip
 *.tar.gz
 *.rar
-
+.pydevproject
+*.pyc
 
 *~
 .DS_Store
