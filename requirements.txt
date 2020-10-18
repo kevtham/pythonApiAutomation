@@ -1,2 +1,5 @@
 -i https://pypi.org/simple
 behave==1.2.6
+pykson
+python3-dateutil
+allure-behave
